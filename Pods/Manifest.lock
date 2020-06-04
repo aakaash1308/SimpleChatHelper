@@ -1,0 +1,34 @@
+PODS:
+  - InputBarAccessoryView (4.2.2)
+  - MessageInputBar (0.4.1):
+    - MessageInputBar/Core (= 0.4.1)
+  - MessageInputBar/Core (0.4.1)
+  - MessageKit (3.0.0):
+    - InputBarAccessoryView (~> 4.2.2)
+  - Scaledrone (0.5.0):
+    - Starscream (~> 3.1.0)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - MessageInputBar
+  - MessageKit
+  - Scaledrone
+
+SPEC REPOS:
+  trunk:
+    - InputBarAccessoryView
+    - MessageInputBar
+    - MessageKit
+    - Scaledrone
+    - Starscream
+
+SPEC CHECKSUMS:
+  InputBarAccessoryView: 2b937602598e2fab3149f37f51dd7ad795653812
+  MessageInputBar: e81c7535347f1f7b923de7080409a535a004b6e4
+  MessageKit: e892a9ca49ebe6d82684d3a93ad84021fa23e2c6
+  Scaledrone: 7fc6a9ab8e969b0df53fe14b54217db8ddf0715a
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: 584234949a194945efc984b8364b68be92fd69ef
+
+COCOAPODS: 1.8.4

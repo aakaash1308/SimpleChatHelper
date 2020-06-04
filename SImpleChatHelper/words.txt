@@ -1,0 +1,25 @@
+intricate,complicated
+adamant,keen
+aloof,alone
+adversary,enemy
+apprehensive,fear
+banished,sent-away
+bluffing|bluffed|bluff,faking|faked|fake
+commotion,disturbance
+concoction,mixture
+conspicuous,clear
+debris,pieces
+defying|defied|defy,betraying|betrayed|betray
+break a leg,do amazing
+diminish,reduce
+disdain,indifference
+dismal,depressing
+eavesdrop,spy
+emerge,arise
+engross|engrossed,engage|engaged
+headway,progress
+impending,nearing
+jargon,slang
+luminous,bright
+obscure,uncertain
+break a leg,do amazing
